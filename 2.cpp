@@ -22,6 +22,7 @@ Output:
 Solution :
 
 Time Complexity - O(n) where I traverse through the whole of the array. 
+Space Complexity - O(n) to store array elements 
 
 #include<iostream>
 using namespace std;

@@ -18,6 +18,7 @@ if(arr[i]<highest && arr[i]>second_highest)
 Solution :
 
 Time Complexity - O(n) where n is the size of the array , since here I am traversing the whole array for comparison 
+Space Complexity - O(1) which is constant 
 
 class Solution
 {
